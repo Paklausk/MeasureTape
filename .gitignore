@@ -1,0 +1,11 @@
+*.suo
+*.manifest
+*.obj
+*.pdb
+*.lib
+*.user
+packages/**
+.vs/**
+bin/**
+obj/**
+Properties/**
